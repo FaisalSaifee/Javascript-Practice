@@ -1,1 +1,22 @@
 Basics of JavaScript
+
+1. Can you explin the differences between var, let and const in Javascript?
+Ans: In Javascript, var, let and const are used to declare variables, but they have key differences in terms of scope, hoisting and mutability. 
+    a. var: 
+        1. Scope: var is function-scoped meaning, it is accesible throughout the funtion in which it is declared. it does not respect block-level scope (e.g., inside and if or for block).
+        2. Hoisting: Variables declared with var are hoisted to the top of their scope. However, they are initialized with undefined, so accessing them before their declaration won't throw an error, but you will get undefined.
+        3. Re-declaration: You can re-declare a var variable within the same scope without errors.
+        4. Example: 
+            function testVar() {
+                console.log(x); // undefined (due to hoisting)
+                var x = 10;
+                if(true) {
+                    var x = 20;
+                    console.log(x); // 20
+                }
+                console.log(x); // 20 (no block scope)
+            }
+
+    a. let: 
+        1. 
+    
