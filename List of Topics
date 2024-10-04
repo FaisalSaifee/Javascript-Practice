@@ -1,0 +1,105 @@
+Javascript material
+To practice and master JavaScript, here is comprehensive list of topics you should understand, ranging form from beginner ot advanced levels:
+
+1. Basics of JavaScript
+    a. Varibles (var, let, const)
+    b. Data Types (strings, numbers, booleans, arrays, objects, etc.)
+    c. Operators (arithmetic, comparison, logical, etc.)
+    d. Conditional Statements (if, else, switch)
+    d. Loops (for, while, do-while)
+    e. Functions (declarations, expressions, arrow functions)
+    f. Scope (global vs local)
+    d. Hoisting
+
+2. Intermediate Javascript
+    a. Arrays and Array Methods (map, filter, reduce forEach, find, etc.)
+    b. Objects and Object methods
+    c. Destructuring (arrays and objects)
+    d. Template Literals (string interpolation)
+    e. Spread and Rest Operators
+    f. this keyword and its context
+    g. Prototypes and Inheritance
+    h. Closures
+    i. Callbacks
+    f. Promises and Async / Await
+    g. Error handling (try, catch, throw)
+    h. Regular expressions
+    i. JSON (parsing and stringifying)
+    
+3. DOM Manipulation
+    a. Document Object Model (DOM)
+    b. Selecting elements (getElementById, querySelector, etc.)
+    c. Modifying elements (text, HTML, styles, attributes)
+    d. Event handling (click, submit, keyup, etc.)
+    e. Event Propagation (bubbling, capturing)
+    f. Forms and Form Validation
+    g. Working with Local Storage and Session Storage.
+
+4. Object-Oriented JavaScript (OOP)
+    a. Object Constructors
+    b. Classes and Objects
+    c. Encapsulation (private vs public members)
+    d. Inheritance (extends, super)
+    e. Polymorphism
+    f. Static methods
+    g. getters and setters
+
+5. Asynchronous JavaScript
+    a. Event Loops
+    b. Callbacks
+    c. Promises (then, catch, finally)
+    d. Async / Await
+    e. Fetch API (making HTTP requests)
+    f. AJAX (XMLHttpRequest)
+    g. Working with APIs (GET, POST, etc)
+
+6. ES6 + Features
+    a. let and const
+    b. Arrow Functions
+    c. Default Parameters
+    d. Rest/Spread Operators
+    e. Destructuring Assignment
+    f. Template Literals
+    g. Classes
+    h. Modules (import / export)
+    i. Optional Chaining (?.)
+    j. Nullish Coalescing (??)
+
+7. Error Handling and Debugging
+    a. Understanding errors (syntax, runtime, logic)
+    b. Try/Catch blocks
+    c. Debugging using the browser console (Chrome DevTools)
+    d. Using Breakpoints
+
+8. Functional Programming Concepts
+    a. Pure Functions
+    b. Immutability
+    c. Higher-order Functions
+    d. First class Functions
+    e. recursion
+    f. Closures
+
+9. Advanced JavaScript
+    a. this and context binding (bind, call, apply)
+    b. JavaScript Design Patters (e.g., Modules, Singleton, Factory, Observer)
+    c. Closures and lexical Scope
+    d. Memoization
+    e. Event Delegation
+    f. Debouncing and Throttling
+    g. Web Workers
+    h. Service Workers (for Progressive Web Apps)
+
+10. JavaScript in the browser
+    a. Browser Event Handling
+    b. Cookies, Local Storage, Session Storage
+    c. DOM Scripting and Manipulation
+    d. Browser APIs (Geolocation, Web Storage, etc.)
+
+11. JavaScript Testing
+    a. Unit Testing (using tools like Jest, Mocha, etc)
+    b. TDD (Test-Driven Development)
+    c. Debugging Techniques
+
+12. Frameworks and Libraries 
+    a. Introduction to JavaScript Libraries (jQuery)
+    b. Overview of Frontend Frameworks (React, Vue, Angular)
